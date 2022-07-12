@@ -1,0 +1,21 @@
+h1 {
+    font-family: Helvetica;
+    font-size: 32px;
+    color: white;
+    background-color: plum;
+    text-align: center
+}
+
+.First {
+    color: pink;
+    font-weight: bold;
+    text-align: center;
+}
+
+img {
+    align-self: center;
+    height: 200px;
+    width: 200px;
+    display: block;
+    margin: 0 auto;
+}
